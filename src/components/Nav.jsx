@@ -10,7 +10,7 @@ const Nav = () => {
                     <div className="artboard artboard-horizontal paratest">
                         <div className="avatar navpad m-5">
                             <div className="w-16 rounded-full">
-                                <img src="public/mydpp.png" />
+                                <img src="/mydpp.png" />
                             </div>
                         </div>
                         <h1 className="navpad text-lg">Sumit Sharma</h1>
@@ -126,6 +126,16 @@ const Nav = () => {
                                     >
                                         {" "}
                                         twitter.
+                                    </a>
+                                </p>
+                                <p>
+                                    To download my CV{" "}
+                                    <a
+                                        className="link"
+                                        href="public/sumitSharmeCV.pdf"
+                                        download="SumitSharmaCV.pdf"
+                                    >
+                                        Click here...
                                     </a>
                                 </p>
                             </div>
