@@ -1,0 +1,52 @@
+.testbg
+{
+    background-color: aqua;
+    align-items:center;
+   color: red;
+}
+.navpad
+{
+    /* background-color: antiquewhite; */
+    margin-bottom: 30px;
+}
+
+.paratest
+{
+    width: 60%;
+    
+}
+.navtimeline
+{
+
+}
+
+.iconcon
+{
+    display: flex;
+    gap: 10px;
+}
+
+.timelineHeader
+{
+    font-size: 25px;
+}
+.maincon
+{
+    /* background-color: aqua; */
+    display: flex;
+    /* border: 1px solid black; */
+    justify-content: center;
+    height: 100%;
+    min-height: 100vh;
+}
+
+.project
+{
+    display:flex;
+    gap: 10px;
+}
+
+.projectcard
+{
+    border: 1px solid black;
+}
